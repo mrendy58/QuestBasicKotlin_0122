@@ -8,7 +8,6 @@ package com.example.project1_122
 fun uppercaseString(string: String): String {
     return string.uppercase()
 }
-
 //Dapat ditulis dalam ekspresi lambda sbb :
 fun main() {
     uppercaseString("hello")
