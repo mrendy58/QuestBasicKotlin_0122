@@ -1,5 +1,5 @@
 package com.example.project1_122
-
+// contoh fungsi class motor
 class Motor()
 
 class Contact(val id: Int, var email:String)
