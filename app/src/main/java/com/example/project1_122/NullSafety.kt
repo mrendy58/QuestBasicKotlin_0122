@@ -1,5 +1,6 @@
 package com.example.project1_122
 
+//secara default tidak mengizinkan variabel untuk bernilai null
 fun nullSafety() {
 // neverNull has String type
     var neverNull: String = "This can't be null"
