@@ -1,6 +1,6 @@
 package com.example.project1_122
-
-fun main(){
+// menjelaskan tipe data
+fun main() {
     //Byte
     val byteValue: Byte = 10
     println("Byte: $byteValue")
