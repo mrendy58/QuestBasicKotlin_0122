@@ -10,7 +10,7 @@ data class DataClass(
     var email: String
 )
 
-
+// contoh fungsi
 fun main() {
     val data = DataClass(1, "indra@gmail.com")
     println(data)
