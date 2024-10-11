@@ -5,6 +5,7 @@ package com.example.project1_122
 // Lambda Functions biasanya digunakan untuk membuat fungsi yang sederhana
 // Lambda Functions menggunakan tanda panah -> untuk memisahkan parameter dan body fungsi
 
+
 fun uppercaseString(string: String): String {
     return string.uppercase()
 }
